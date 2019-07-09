@@ -7,10 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hit it</h1>
-    <p>
-        <a href="/contact">Contact</a> us lean to more.
-
-    </p>
+    <h1>contact</h1>
 </body>
 </html>
